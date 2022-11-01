@@ -1,1 +1,1 @@
-# -urrencyBot
+# CurrencyBot
